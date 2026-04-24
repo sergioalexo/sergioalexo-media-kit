@@ -1,3 +1,19 @@
+<p align="center">
+  <img 
+    src="https://raw.githubusercontent.com/sergioalexo/sergioalexo-media-kit/main/Pictures/Casual/IMG_3949~2.JPG" 
+    width="160"
+    style="border-radius:70%; border:3px solid white; object-fit:cover;"
+  />
+
+  &nbsp;&nbsp;&nbsp;&nbsp;
+
+  <img 
+    src="https://raw.githubusercontent.com/sergioalexo/sergioalexo-media-kit/main/Logo/logo-sergioalexo-white.png" 
+    width="160"
+    style="border-radius:50%; border:3px solid white; padding:10px; background-color:#111;"
+  />
+</p>
+
 ## Sergio Alexo
 
 **Sergio Alexo** is a Winnipeg-based DJ originally from Ukraine, known for delivering **pure, uplifting energy** through dynamic sets rooted in **groovy house**.
